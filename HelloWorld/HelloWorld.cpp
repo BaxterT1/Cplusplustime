@@ -2,5 +2,5 @@
 
 int main() {
 	std::cout << "Hello, World!";
-	reurn 0;
+	return 0;
 }
