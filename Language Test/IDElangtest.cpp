@@ -18,7 +18,7 @@ long getCPPStandard()
     // __cplusplus is the intended way to query the language standard code (as defined by the language standards)
     return __cplusplus;
 #endif
-}
+}Giothub
 
 int main()
 {
