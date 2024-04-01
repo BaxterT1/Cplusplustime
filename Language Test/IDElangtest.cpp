@@ -19,7 +19,6 @@ long getCPPStandard()
     return __cplusplus;
 #endif
 }
-balls
 
 int main()
 {
