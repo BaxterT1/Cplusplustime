@@ -27,6 +27,11 @@ int main() {
 
 	cout << "Why is it no updating the previous call? ";
 
+	cout << "Enter a number: " << '\n';
+
+	cin >> p;
+
+	cout << p;
 }
 
 
