@@ -12,7 +12,7 @@ int main() {
     cout << "       C                    S                !!   \n";
     cout << "       C                     S S S S S       !!   \n";
     cout << "       C                              S      !!   \n";
-    cout << "        C       C                     S      !!   \n";
+    cout << "        C       C          S          S      !!   \n";
     cout << "          C C C             S S S S S        !!   \n";
 
     cout << "**************************************************" << '\n';
